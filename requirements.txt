@@ -1,8 +1,10 @@
+pystan==2.19.1.1
+prophet
 streamlit
 pandas
 numpy
 yfinance
-prophet
+
 scikit-learn
 xgboost
 matplotlib
