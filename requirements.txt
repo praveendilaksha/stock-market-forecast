@@ -6,3 +6,4 @@ prophet
 scikit-learn
 xgboost
 matplotlib
+plotly
